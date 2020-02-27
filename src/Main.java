@@ -15,14 +15,13 @@ public class Main {
         int[] expects = {1,2,3,4,5};
 
         bubbleSort(inputs);
-
         assertTrue(Arrays.equals(inputs, expects));
     }
 
 	// to sort in ascending order
     public static void bubbleSort(int[] data) {
 		// check data size
-		if (data.length>0) {
+		if (data.length==0) {
 			return;
 		}
 
