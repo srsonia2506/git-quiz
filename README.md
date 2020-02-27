@@ -7,12 +7,12 @@ The following repository is quiz 2 for CSS143, testing my skills on git. I was r
 Changes Made
 -------------------
 
-> Changed `data.length>0` to `data.length==0` on line 24
+> Changed `data.length>0` to `data.length==0` on line 24.
 
 
 Contributions
 -------------------
-Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
+Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 License
 -------------------
